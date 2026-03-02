@@ -44,3 +44,4 @@ public class KK_02_Loops {
         } while (n != 1);
     }
 }
+
