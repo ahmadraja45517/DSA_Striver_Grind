@@ -6,9 +6,14 @@ public class KK_17_Armstrong {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Enter the value of n: ");
-        int n = in.nextInt();
-        System.out.println(armstrong(n));
+//        System.out.println("Enter the value of n: ");
+//        int n = in.nextInt();
+
+        for (int i = 100; i <= 1000; i++) {
+            if (armstrong(i)){
+                System.out.println(i + " is an Armstrong number");
+            }
+        }
     }
 
     static boolean armstrong(int a){
