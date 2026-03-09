@@ -20,7 +20,6 @@ public class ArrayMemoryAllocation {
         ros[7] = 8;
         ros[8] = 9;
         ros[9] = 10;
-
         System.out.println(ros[5]);
 
         String[] arr = new String[10];
