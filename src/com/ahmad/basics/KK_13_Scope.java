@@ -1,4 +1,4 @@
-package com.ahmad;
+package com.ahmad.basics;
 
 public class KK_13_Scope {
     public static void main(String[] args) {

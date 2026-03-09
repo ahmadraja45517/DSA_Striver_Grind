@@ -1,4 +1,4 @@
-package com.ahmad;
+package com.ahmad.basics;
 
 import java.util.Arrays;
 

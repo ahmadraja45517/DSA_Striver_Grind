@@ -1,5 +1,4 @@
-package com.ahmad;
-import java.util.Scanner;
+package com.ahmad.basics;
 
 public class KK_02_Loops {
     public static void main(String[] args) {
