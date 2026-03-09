@@ -1,6 +1,6 @@
 package com.ahmad.arrays;
 
-public class KK_01_RollNo {
+public class ArrayMemoryAllocation {
     public static void main(String[] args) {
 
         //storing 5 roll no
